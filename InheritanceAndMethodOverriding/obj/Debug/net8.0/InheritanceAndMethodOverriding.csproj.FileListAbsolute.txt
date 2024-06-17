@@ -1,0 +1,14 @@
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/bin/Debug/net8.0/InheritanceAndMethodOverriding
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/bin/Debug/net8.0/InheritanceAndMethodOverriding.deps.json
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/bin/Debug/net8.0/InheritanceAndMethodOverriding.runtimeconfig.json
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/bin/Debug/net8.0/InheritanceAndMethodOverriding.dll
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/bin/Debug/net8.0/InheritanceAndMethodOverriding.pdb
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.AssemblyInfoInputs.cache
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.AssemblyInfo.cs
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.csproj.CoreCompileInputs.cache
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.dll
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/refint/InheritanceAndMethodOverriding.dll
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.pdb
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/InheritanceAndMethodOverriding.genruntimeconfig.cache
+/home/codewarrior33/dcit318-assignment2-10965154/InheritanceAndMethodOverriding/obj/Debug/net8.0/ref/InheritanceAndMethodOverriding.dll
