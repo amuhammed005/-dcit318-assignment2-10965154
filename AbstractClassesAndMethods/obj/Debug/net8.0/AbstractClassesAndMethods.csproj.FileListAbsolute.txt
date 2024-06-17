@@ -1,0 +1,15 @@
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/bin/Debug/net8.0/AbstractClassesAndMethods
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/bin/Debug/net8.0/AbstractClassesAndMethods.deps.json
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/bin/Debug/net8.0/AbstractClassesAndMethods.runtimeconfig.json
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/bin/Debug/net8.0/AbstractClassesAndMethods.dll
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/bin/Debug/net8.0/AbstractClassesAndMethods.pdb
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.AssemblyInfoInputs.cache
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.AssemblyInfo.cs
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.sourcelink.json
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.dll
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/refint/AbstractClassesAndMethods.dll
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.pdb
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/AbstractClassesAndMethods.genruntimeconfig.cache
+/home/codewarrior33/dcit318-assignment2-10965154/AbstractClassesAndMethods/obj/Debug/net8.0/ref/AbstractClassesAndMethods.dll
